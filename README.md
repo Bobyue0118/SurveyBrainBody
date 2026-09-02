@@ -118,6 +118,9 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[A New Encoding to Mitigate Representation Biases in Morphological Robot Evolution](https://link.springer.com/chapter/10.1007/978-3-032-36229-2_23)|**PPSN 2026**|-|-|
+|[Morphological Evolution of Aerial Robots: Comparing Genetic Encodings](https://link.springer.com/chapter/10.1007/978-3-032-36229-2_26)|**PPSN 2026**|Aerial Robot|-|
+|[Shaping the Evolutionary Dynamics of Robot Morphology via Adaptive Control Learning](https://arxiv.org/abs/2608.23100)|**Arxiv 2026**|Modular Robot|-|
 |[Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design](https://arxiv.org/abs/2607.25798)|**Arxiv 2026**|Rigid Robots|[Page](https://transformer-transformer.github.io/)|
 |[Computational Design of Terrestrial Robots with Anisotropic Friction](https://dl.acm.org/doi/pdf/10.1145/3799902.3811103)|**SIGGRAPH 2026**|Terrestrial Robots|-|
 |[Learning to Reconfigure: Configuration-Control Co-optimization of Reconfigurable Robots for Heterogeneous Locomotion](https://openreview.net/pdf?id=nVhciStASE)|**ICML 2026**|Reconfigurable Robots|-|
